@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anna Puzynina</h1>
-<h3 align="center">A passionate Data Scientist from Russia liviving in Moscow.</h3>
+<h3 align="center">A passionate Data Scientist from Russia living in Moscow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avpuzynina&label=Profile%20views&color=0e75b6&style=flat" alt="avpuzynina" /> </p>
+<img src="https://miro.medium.com/max/1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif" alt="я джифка">
 
 - 🌱 I’m currently learning **Pytorch**
 
