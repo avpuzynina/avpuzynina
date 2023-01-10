@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Anna Puzynina</h1>
-<h3 align="center">A passionate Data Scientist from Russia living in Moscow.</h3>
+<h1 align="center">Hello 👋, I'm Anna Puzynina</h1>
+<h3 align="center">A passionate Data Scientist from Russia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avpuzynina&label=Profile%20views&color=0e75b6&style=flat" alt="avpuzynina" /> </p>
-<img src="https://miro.medium.com/max/1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif" alt="я джифка">
+<img src="https://miro.medium.com/max/1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif" alt="я джифка" height="400" width="1000">
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Pytorch** and **TensorFlow**
+
+- :chart_with_upwards_trend: I’m currently working on [Holodilnik](https://github.com/avpuzynina/Holodilnik)
 
 - 👨‍💻 6kyu on CodeWars [https://www.codewars.com/users/avpuzynina](https://www.codewars.com/users/avpuzynina)
 
@@ -13,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/annapuzynina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annapuzynina" height="30" width="40" /></a>
+<a href="https://t.me/annapuzynina" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="annapuzynina" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
