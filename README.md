@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avpuzynina&label=Profile%20views&color=0e75b6&style=flat" alt="avpuzynina" /> </p>
 <img src="https://miro.medium.com/max/1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif" alt="я джифка" height="400" width="1000">
 
-- 🌱 I’m currently learning **Pytorch** and **TensorFlow**
-
 - :chart_with_upwards_trend: I’m currently working on [Holodilnik](https://github.com/avpuzynina/Holodilnik)
 
 - 👨‍💻 6kyu on CodeWars [https://www.codewars.com/users/avpuzynina](https://www.codewars.com/users/avpuzynina)
